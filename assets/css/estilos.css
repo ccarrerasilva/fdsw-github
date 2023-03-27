@@ -2,6 +2,10 @@ body {
   font-family: 'Red Hat Display', sans-serif;
 }
 
+h2 {
+  color: #133C55;
+}
+
 /* Hero Section */
 
 #Hero-Section {
