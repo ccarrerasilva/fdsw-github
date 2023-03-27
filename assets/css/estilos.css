@@ -11,6 +11,13 @@ body {
   background-position: left;
 }
 
+/* Acerca de mi*/
+
+i {
+  color: #133C55;
+}
+
+
 /* Mis trabajos */
 
 #Mis-trabajos .image-top {
